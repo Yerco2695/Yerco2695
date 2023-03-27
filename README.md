@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-[![An old rock in the desert](/assets/images/shiprock.jpg "Shiprock, New Mexico by Beau Rogers")](https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/hc_1440x810/public/media/image/2022/05/dragon-ball-super-portada-exclusiva-vegeta-mega-instinto-serie-roja-espanola-han-respetado-color-original-ultra-ego-2692279.jpg?itok=5h27o3CH)
+![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
 
 Here are some ideas to get you started:
 
@@ -15,4 +15,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-[![An old rock in the desert](/assets/images/shiprock.jpg "Shiprock, New Mexico by Beau Rogers")](https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/hc_1440x810/public/media/image/2022/05/dragon-ball-super-portada-exclusiva-vegeta-mega-instinto-serie-roja-espanola-han-respetado-color-original-ultra-ego-2692279.jpg?itok=5h27o3CH)
