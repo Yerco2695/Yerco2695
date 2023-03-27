@@ -1,4 +1,4 @@
-# Yerco Yamil Sánchez Pizarro mi portafolio de codigo de software
+# Yerco Yamil Sánchez Pizarro
 
 ### Hi there 👋
 
