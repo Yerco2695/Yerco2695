@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-[![Vegeta](/assets/images/shiprock.jpg "Shiprock, New Mexico by Beau Rogers")](https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/hc_1440x810/public/media/image/2022/05/dragon-ball-super-portada-exclusiva-vegeta-mega-instinto-serie-roja-espanola-han-respetado-color-original-ultra-ego-2692279.jpg?itok=5h27o3CH)
+[![Vegeta Rules!](/assets/images/shiprock.jpg "Shiprock, New Mexico by Beau Rogers")](https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/hc_1440x810/public/media/image/2022/05/dragon-ball-super-portada-exclusiva-vegeta-mega-instinto-serie-roja-espanola-han-respetado-color-original-ultra-ego-2692279.jpg?itok=5h27o3CH)
 
 - 🔭 I’m currently studing on Domingo Savio Private University of Tarija
 - 🌱 I’m currently learning to code on every language that i see
